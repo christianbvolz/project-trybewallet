@@ -11,4 +11,4 @@ export const collumns = [
   'Câmbio utilizado',
   'Valor convertido',
   'Moeda de conversão',
-  'Excluir'];
+  'Editar/Excluir'];
